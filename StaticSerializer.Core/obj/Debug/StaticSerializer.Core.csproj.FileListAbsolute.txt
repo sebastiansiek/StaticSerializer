@@ -1,0 +1,5 @@
+D:\GitHub\StaticSerializer\StaticSerializer.Core\bin\Debug\StaticSerializer.Core.dll
+D:\GitHub\StaticSerializer\StaticSerializer.Core\bin\Debug\StaticSerializer.Core.pdb
+D:\GitHub\StaticSerializer\StaticSerializer.Core\obj\Debug\StaticSerializer.Core.csprojResolveAssemblyReference.cache
+D:\GitHub\StaticSerializer\StaticSerializer.Core\obj\Debug\StaticSerializer.Core.dll
+D:\GitHub\StaticSerializer\StaticSerializer.Core\obj\Debug\StaticSerializer.Core.pdb

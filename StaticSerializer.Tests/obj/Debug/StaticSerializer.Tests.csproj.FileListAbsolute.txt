@@ -1,0 +1,7 @@
+D:\GitHub\StaticSerializer\StaticSerializer.Tests\bin\Debug\StaticSerializer.Tests.dll
+D:\GitHub\StaticSerializer\StaticSerializer.Tests\bin\Debug\StaticSerializer.Tests.pdb
+D:\GitHub\StaticSerializer\StaticSerializer.Tests\bin\Debug\StaticSerializer.Core.dll
+D:\GitHub\StaticSerializer\StaticSerializer.Tests\bin\Debug\StaticSerializer.Core.pdb
+D:\GitHub\StaticSerializer\StaticSerializer.Tests\obj\Debug\StaticSerializer.Tests.csprojResolveAssemblyReference.cache
+D:\GitHub\StaticSerializer\StaticSerializer.Tests\obj\Debug\StaticSerializer.Tests.dll
+D:\GitHub\StaticSerializer\StaticSerializer.Tests\obj\Debug\StaticSerializer.Tests.pdb
